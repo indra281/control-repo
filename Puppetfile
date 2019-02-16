@@ -10,7 +10,7 @@ forge 'https://forge.puppet.com'
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'apache',
   :git    => 'https://github.com/voxpupuli/puppet-nginx.git',
-  :commit => 'a3e6f57a333c3d2d948bdffd2005c9772e1f23de'
+  :commit => 'a3e6f57a333c3d2d948bdffd2005c9772e1f23degit'
 
 #mod 'apache',
 #  :git    => 'https://github.com/voxpupuli/puppet-nginx.git',
