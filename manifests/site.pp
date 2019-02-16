@@ -1,4 +1,4 @@
 node default {
-include apache
+include nginx
 
 }
