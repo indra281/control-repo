@@ -9,9 +9,9 @@ forge 'https://forge.puppet.com'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'apache',
-  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
-  :commit => 'de290646f97e04b4b8e42c70f6e01e860c394ce7'
+  :git    => 'https://github.com/voxpupuli/puppet-nginx.git',
+  :commit => 'a3e6f57a333c3d2d948bdffd2005c9772e1f23de'
 
 #mod 'apache',
-#  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
+#  :git    => 'https://github.com/voxpupuli/puppet-nginx.git',
 #  :branch => 'docs_experiment'
