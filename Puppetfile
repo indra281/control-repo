@@ -8,9 +8,9 @@ mod 'puppetlabs/concat',      '5.2.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
-#mod 'nginx',
-  #:git    => 'https://github.com/voxpupuli/puppet-nginx.git',
-  #:commit => 'a3e6f57a333c3d2d948bdffd2005c9772e1f23de'
+mod 'nginx',
+  :git    => 'https://github.com/voxpupuli/puppet-nginx.git',
+  :commit => 'a3e6f57a333c3d2d948bdffd2005c9772e1f23de'
 
 #mod 'apache',
 #  :git    => 'https://github.com/voxpupuli/puppet-nginx.git',
