@@ -1,4 +1,4 @@
 node default {
-include concat
+include nginx
 
 }
